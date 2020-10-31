@@ -1,5 +1,5 @@
-# To start app:
-nodemon server
+# To connect to MongoDB:
+under './backend' run: nodemon server
 
 
 
